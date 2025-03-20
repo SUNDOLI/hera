@@ -68,7 +68,7 @@ $(function () {
 $(function () {
     $('#bgndVideo').YTPlayer(
         {
-            videoURL: 'https://youtu.be/eOWG-d2lP7E',
+            videoURL: 'https://youtu.be/1LZ1nXbjcFY',
             containment: '.main_movie',
             showControls: false,
             playOnlyIfVisible: true,
